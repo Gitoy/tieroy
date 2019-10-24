@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://nl.wikipedia.org/wiki/Hoofdpagina"
           target="_blank"
           rel="noopener noreferrer"
         >
